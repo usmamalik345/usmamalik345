@@ -1,11 +1,16 @@
-# Osama Malik
+# Osama Malik, AI Agent Engineer
 
-**AI agent and full stack engineer working where agents meet infrastructure and security.**
-Cost abuse controls, agent guardrails, observability, and the runtime details that keep agent frameworks reliable, plus the web apps and APIs around them.
+I build AI agents, RAG, voice agents and LLM cost and security guards. Full stack, .NET, DevOps.
+
+3+ years experience. Onlinx Solutions Jul 2024 to present.
 
 [![Email](https://img.shields.io/badge/Email-usmamalik344%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:usmamalik344@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osamamalik346-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamamalik346/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-usmamalik345.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://usmamalik345.github.io/portfolio-agent/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osamamalik346-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamamalik346)
+[![X](https://img.shields.io/badge/X-Osa__ma346-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Osa_ma346)
+[![dev.to](https://img.shields.io/badge/dev.to-osamamalik-000000?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/osamamalik)
+[![Website](https://img.shields.io/badge/Website-osamamalik.me-222222?style=flat-square)](https://osamamalik.me)
+[![Hire](https://img.shields.io/badge/Hire-osamamalik.me-222222?style=flat-square)](https://osamamalik.me/hire/)
+[![Blog](https://img.shields.io/badge/Blog-osamamalik.me-222222?style=flat-square)](https://osamamalik.me/blog/)
 
 📍 Islamabad, Pakistan
 
@@ -51,22 +56,13 @@ Cost abuse controls, agent guardrails, observability, and the runtime details th
 - **[doctor-appointment-website](https://github.com/usmamalik345/doctor-appointment-website):** MERN app (MongoDB, Express, React, Node.js) with separate backend, frontend and admin parts; patients sign up, browse doctors by specialization, book and cancel appointments, and admins add doctor profiles.
 - **[AI-code-reviewer](https://github.com/usmamalik345/AI-code-reviewer):** Node.js and Express GraphQL (Apollo) server that parses JavaScript with acorn to flag duplicate, complex and oversized functions and return a quality score.
 - **[Node.js-Social-Media-REST-API-with-MongoDb](https://github.com/usmamalik345/Node.js-Social-Media-REST-API-with-MongoDb):** Express and Mongoose REST API with auth and user routes, using helmet and morgan.
-- **[portfolio-agent](https://github.com/usmamalik345/portfolio-agent):** my live portfolio with an AI agent chat. [Open it](https://usmamalik345.github.io/portfolio-agent/)
+- **[portfolio-agent](https://github.com/usmamalik345/portfolio-agent):** my live portfolio with an AI agent chat. [Open it](https://osamamalik.me)
 
 ---
 
-## 🔀 Open source contributions (merged)
+## 🔀 Open source
 
-| Project | Pull request |
-|---|---|
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#5760](https://github.com/pipecat-ai/pipecat/pull/5760) Keep function call timeout armed across intermediate results |
-| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | [#4313](https://github.com/strands-agents/harness-sdk/pull/4313) Make `AgentResult.to_dict` JSON serializable with bytes |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6346](https://github.com/genkit-ai/genkit/pull/6346) Fix OpenAI plugin embedding validation for `encodingFormat: 'base64'` |
-| [phasespace-labs/palinode](https://github.com/phasespace-labs/palinode) | [#166](https://github.com/phasespace-labs/palinode/pull/166) Exit non zero on CLI error paths |
-| [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | [#4808](https://github.com/linagora/tmail-flutter/pull/4808) Regression tests for reply-to fallback |
-| [simolus3/drift](https://github.com/simolus3/drift) | [#3850](https://github.com/simolus3/drift/pull/3850) Docs: CLI and DevTools in FAQ |
-
-**In review:** [pipecat #5791](https://github.com/pipecat-ai/pipecat/pull/5791) (OpenAI Responses cancel race) · [livekit/agents #7186](https://github.com/livekit/agents/pull/7186) (bound EndCallTool wait) · [swarms #2284](https://github.com/kyegomez/swarms/pull/2284) (optional swarm description)
+Merged pull requests in [Pipecat](https://github.com/pipecat-ai/pipecat/pull/5760) (#5760), [Genkit](https://github.com/genkit-ai/genkit/pull/6346) (#6346), and [Strands](https://github.com/strands-agents/harness-sdk/pull/4313) (#4313). [LiveKit](https://github.com/livekit/agents/pull/7186) (#7186) is open.
 
 ---
 
@@ -79,6 +75,6 @@ Cost abuse controls, agent guardrails, observability, and the runtime details th
 
 ---
 
-📫 Reach me at [usmamalik344@gmail.com](mailto:usmamalik344@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/osamamalik346/).
+📫 Reach me at [usmamalik344@gmail.com](mailto:usmamalik344@gmail.com), [LinkedIn](https://www.linkedin.com/in/osamamalik346), [X](https://x.com/Osa_ma346), or [dev.to](https://dev.to/osamamalik).
 
 <!-- Optional: add Kubernetes certification line with a Credly/verification link once available. Only add with a public verification URL. -->
