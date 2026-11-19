@@ -4,6 +4,8 @@ I build AI agents, RAG, voice agents and LLM cost and security guards. Full stac
 
 3+ years experience. Onlinx Solutions Jul 2024 to present.
 
+At Onlinx I also build and maintain a production point of sale and inventory platform: ASP.NET Core (.NET 8) backend with MySQL, Dapper and SignalR, Angular 19 frontend, and AWS S3 and Textract, shipped in Docker.
+
 [![Email](https://img.shields.io/badge/Email-usmamalik344%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:usmamalik344@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-osamamalik346-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamamalik346)
 [![X](https://img.shields.io/badge/X-Osa__ma346-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Osa_ma346)
