@@ -1,10 +1,12 @@
 # Osama Malik, AI Agent Engineer
 
+Osama Malik (also written Usama Malik) is an AI Agent Engineer in Islamabad, Pakistan. Portfolio: [osamamalik.me](https://osamamalik.me) · Hire: [osamamalik.me/hire](https://osamamalik.me/hire/)
+
 I build AI agents, RAG, voice agents and LLM cost and security guards. Full stack, .NET, DevOps.
 
 3+ years experience. Onlinx Solutions Jul 2024 to present.
 
-At Onlinx I also build and maintain a production point of sale and inventory platform: ASP.NET Core (.NET 8) backend with MySQL, Dapper and SignalR, Angular 19 frontend, and AWS S3 and Textract, shipped in Docker.
+At Onlinx I also build and maintain a production point of sale and inventory platform: ASP.NET Core (.NET 8) backend with MySQL, Dapper and SignalR, Angular 19 frontend, and AWS S3 and Textract, shipped in Docker. [POS case study](https://osamamalik.me/projects/pos-inventory-platform/)
 
 [![Email](https://img.shields.io/badge/Email-usmamalik344%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:usmamalik344@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-osamamalik346-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamamalik346)
@@ -30,7 +32,25 @@ At Onlinx I also build and maintain a production point of sale and inventory pla
 
 **Stack:** Node and Python SDKs, Express middleware, FastAPI dependency, Redis, Postgres, Prometheus, OpenTelemetry, Docker Compose, Helm chart
 
-[Live demo](https://bleedstop-demo.vercel.app/) · [Project site](https://usmamalik345.github.io/bleedstop/)
+[Live demo](https://bleedstop-demo.vercel.app/) · [Project site](https://osamamalik.me/bleedstop.html) · [Write-up](https://osamamalik.me/blog/bleedstop-cost-and-security-guard.html)
+
+---
+
+## 🤖 Agent Receptionist
+
+**[Agent Receptionist](https://github.com/usmamalik345/agent-receptionist)** is a multi-tenant voice and chat receptionist for hotels and dental clinics, with triage, FAQ, booking, hand-off and guard agents. On 25 Nov 2026 its platform eval passed 270/270 cases (670/670 turns) with 0 safety failures.
+
+[Case study](https://osamamalik.me/projects/agent-receptionist/) · [Live demo](https://agent-receptionist.vercel.app/dashboard?biz=hotel)
+
+---
+
+## 🔧 Open source contributions
+
+- **Pipecat #5760:** function call timeout fix, merged 15 Sep 2026. [PR](https://github.com/pipecat-ai/pipecat/pull/5760) · [Write-up](https://osamamalik.me/projects/pipecat-5760-function-call-timeout/)
+- **Genkit #6346:** OpenAI base64 embeddings fix, merged 23 Sep 2026. [PR](https://github.com/genkit-ai/genkit/pull/6346) · [Write-up](https://osamamalik.me/projects/genkit-openai-base64-embeddings/)
+- **Strands Agents harness SDK #4313:** AgentResult JSON bytes fix. [PR](https://github.com/strands-agents/harness-sdk/pull/4313) · [Write-up](https://osamamalik.me/projects/strands-agentresult-json-bytes/)
+
+All of them: [osamamalik.me/open-source.html](https://osamamalik.me/open-source.html)
 
 ---
 
